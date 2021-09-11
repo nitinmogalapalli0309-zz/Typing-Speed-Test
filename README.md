@@ -39,9 +39,9 @@ For the latest Stable version, go to [Releases](https://github.com/nitinmogalapa
 Extract the files and run `Typing-Speed-Test.py` file present in the `src` folder.
 
 As an alternative, you could also clone the repository using.
-<pre>
+```
 git clone https://github.com/nitinmogalapalli/Typing-Speed-Test.git
-</pre>
+```
 
 **Note** : Typing-Speed-Test uses custom fonts. Most windows computers have them preinstalled. However, if you don't, just open the `Fonts` folder present in assets and launch the `Agency-FB.ttf` and the `Algerian Regular.ttf` files and press install. 
 
